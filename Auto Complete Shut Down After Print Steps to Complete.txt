@@ -1,0 +1,17 @@
+Auto Complete Shut Down After Print Steps to Complete
+The system is rather simple. There is no wiring, no soldering, and no assembly. You add and configure inexpensive off the shelf components.
+
+Four steps
+1. Add smart plug to Alexa
+2. Create IFTTT Applet
+3. Add ESP8266 Module
+4. Create Alexa Routines
+
+Video Links
+
+Demonstration
+System Overview 
+Create IFTTT applet
+IFTTT Key
+Add ESP8266 Module
+Create Alexa routines
