@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 Auto Complete Shut Down After Print Steps to Complete
 The system is rather simple. There is no wiring, no soldering, and no assembly. You add and configure inexpensive off the shelf components.
@@ -22,4 +22,3 @@ Video Links
 [Add ESP8266 Module](https://youtu.be/eIm1ye5H640)
 
 [Create Alexa routines](https://youtu.be/kwq0b9v65mE)
->>>>>>> fe4469eb9b0609b0a6e5c7ecdffa56493dd06907
